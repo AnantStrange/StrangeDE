@@ -1,5 +1,4 @@
-# Strange's Build of DWM ST DMENU & configs
-
+<h1 align="center" size="20px"> Strange's Build of DWM ST DMENU & configs</h1>
 
 <details>
 <summary> Screenshots </summary>
